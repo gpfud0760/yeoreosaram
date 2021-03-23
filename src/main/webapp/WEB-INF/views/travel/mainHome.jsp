@@ -38,9 +38,9 @@
    <h4 style="display : inline-block;">님 어디로 떠나볼까요?</h4>
    <br/>
 </div>
- <%
+ <% 
    }
-   else 
+   else //안녕~~~
    {
  %>
  <div class="text-center"><h3>환영합니다! 로그인 후 여러사람과 함께 여행을 시작해보세요!</h3></div>
